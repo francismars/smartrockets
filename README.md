@@ -6,6 +6,8 @@ Smart Rockets is a 0-player game that uses Genetic Alghoritms to optimize for th
   <img src="rocketsPlaying.gif" alt="animated" />
 </p>
 
+On the left, there is the main canvas of the game, where the rockets can move freely. The rockets become translucent when they hit an obstacle or the wall. The target has a blinking effect in order to grab the user's attention. The rocket's propulsor has different sizes according to the rocket's velocity. The walls and obstacles are in greenish blue. There is a time bar in the bottom in orange that becomes shorter with time. The user can move the targets by clicking on an existing obstacle and holding while moving, can create an obstacle by clicking on an empty space and dragging the mouse and can remove obstacles by right clicking on an existing target. The user can also change the location of the target. On the right, it’s the GUI. On the top it displays relevant information and on the bottom there are the buttons the user can interact with to change the options. 
+
 ## Running Instructions:
 Install Processing -> https://processing.org/
 
